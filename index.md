@@ -1,5 +1,3 @@
-# O mnie
-
 Witaj! Mam na imię Jakub, jestem studentem Akademii Górniczo-Hutniczej w Krakowie na kierunku Cyberbezpieczeństwo. Moje doświadczenie zawodowe i edukacyjne obejmuje zarówno naukę w technikum teleinformatycznym, jak i dalsze rozwijanie umiejętności technicznych na studiach wyższych.
 
 ## Doświadczenie i Umiejętności
